@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+lotomatic_virtual_env
+db.sqlite3
+.DS_Store
